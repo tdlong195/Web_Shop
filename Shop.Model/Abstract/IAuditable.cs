@@ -11,5 +11,6 @@ namespace Shop.Model.Abstract
         bool Status { get; set; }
         string MetaKeyword { get; set; }
         string MetaDesription { get; set; }
+
     }
 }
